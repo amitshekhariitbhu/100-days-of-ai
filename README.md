@@ -46,7 +46,7 @@ Everything in AI stands on machine learning. In this phase, we will learn what m
 | 5 | Loss Functions | [What Are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions) |
 | 6 | Regularization | [Regularization In Machine Learning](https://outcomeschool.com/blog/regularization-in-machine-learning) |
 | 7 | Bias in Neural Networks | [What is Bias In Artificial Neural Network?](https://outcomeschool.com/blog/bias-in-artificial-neural-network) |
-| 8 | TensorFlow | [How Does The Machine Learning Library TensorFlow Work?](https://outcomeschool.com/blog/how-does-the-machine-learning-library-tensorflow-work) |
+| 8 | PyTorch and TensorFlow | [How does PyTorch work?](https://outcomeschool.com/blog/how-does-pytorch-work) and [How Does The Machine Learning Library TensorFlow Work?](https://outcomeschool.com/blog/how-does-the-machine-learning-library-tensorflow-work) |
 | 9 | Recurrent Neural Networks | [Recurrent Neural Network](https://outcomeschool.com/blog/recurrent-neural-network) |
 | 10 | Revision | Revise Days 1-9 and write a short note on each concept (no new reading) |
 
