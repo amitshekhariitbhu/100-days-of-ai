@@ -75,7 +75,7 @@ The Transformer powers every modern Large Language Model. In this phase, we will
 
 | Day | Topic | Resource |
 |---|---|---|
-| 19 | Tokenization (BPE) | [Byte Pair Encoding in LLMs](https://outcomeschool.com/blog/bpe-in-llms) |
+| 19 | Tokenization (BPE) | [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms) and [Byte Pair Encoding in LLMs](https://outcomeschool.com/blog/bpe-in-llms) |
 | 20 | Next-Token Prediction | [Autoregressive Models](https://outcomeschool.com/blog/autoregressive-models) |
 | 21 | Self Attention | [Self Attention in Transformers](https://outcomeschool.com/blog/self-attention-in-transformers) |
 | 22 | Attention Math (Q, K, V) | [Math behind Attention - Q, K, and V](https://outcomeschool.com/blog/math-behind-attention-qkv) |
