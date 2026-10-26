@@ -136,7 +136,7 @@ In this phase, we will learn the retrieval stack that lets an AI answer question
 
 | Day | Topic | Resource |
 |---|---|---|
-| 53 | Embeddings | [How do Image Embeddings work?](https://outcomeschool.com/blog/how-do-image-embeddings-work) |
+| 53 | Embeddings | [How do Image Embeddings work?](https://outcomeschool.com/blog/how-do-image-embeddings-work) and [How does an embedding model work?](https://outcomeschool.com/blog/embedding-model) |
 | 54 | Vector Databases | [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work) |
 | 55 | ANN Search | [How does Approximate Nearest Neighbor (ANN) search work?](https://outcomeschool.com/blog/how-does-approximate-nearest-neighbor-ann-search-work) |
 | 56 | Rerankers | [How does a Reranker work?](https://outcomeschool.com/blog/how-does-a-reranker-work) |
